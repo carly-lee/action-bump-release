@@ -19,8 +19,6 @@ function App() {
           Learn React
         </a>
       </header>
-      <div>Open a PR to check github actions</div>
-      <div>changing text</div>
     </div>
   );
 }
