@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <p>final test</p>
+      <p>This is the final!</p>
     </div>
   );
 }
